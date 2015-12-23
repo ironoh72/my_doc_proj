@@ -1,2 +1,2 @@
-# myproject
-myproject-ironoh72
+# my_doc_proj
+my_doc_proj
